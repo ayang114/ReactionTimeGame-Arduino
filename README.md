@@ -12,4 +12,5 @@ https://www.arduino.cc/en/software
 ```
 
 <b>Setting Up and Running Guide</b>
+<br>
 Step 1: Download and run all files via Arduino IDE
